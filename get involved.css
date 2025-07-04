@@ -1,0 +1,97 @@
+*{
+    margin:0;
+    padding:0;
+ 
+}
+
+nav {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+  }
+  
+.nav-links ul  {
+    display:flex;
+    gap:30px;
+    margin-left:900px;
+    color:rgb(4, 52, 71);
+    font-weight:1000px;
+    font-style: oblique;
+    position:fixed;
+    overflow:hidden;
+    background:transparent;
+    text-decoration: none;
+    font-size:22px;
+  }
+  .nav-links ul li{
+    color:rgb(122, 202, 223);
+    background:transparent;
+    text-decoration: none;
+  }
+  .nav-links a{
+    text-decoration: none;
+    background: transparent;
+ 
+ 
+  }
+    .nav-links a:hover{
+    color:rgb(137, 184, 238);
+  }
+  .nav-links ul a:hover {
+    transform: scale(1.2); 
+  }
+.img1 img{
+    width:60%;
+    height:600px;
+    margin-top:50px;
+}
+.form{
+    margin-left:1200px;
+  /* margin-top:-300px;*/
+}
+.h2{
+    margin-left:1200px;
+    margin-top:-550px;
+}
+
+.footer-section{
+    background-color:black;
+    display:flex;
+    margin-top:150px
+
+  }
+  .footer-section h2{
+    color:rgb(20, 20, 138);
+  }
+  .footer-section p{
+    color:rgb(20, 20, 138);
+  }
+  .footerimage img{
+    width:40%;
+    margin-left:400px;
+    margin-top:50px;
+  }
+  .courses{
+    margin-left:100px;
+  }
+  .courses ul li a{
+    color:rgb(20, 20, 138);
+  }
+  .helpfullinks ul li a{
+    color:rgb(20, 20, 138);
+  }
+  .helpfullinks{
+    margin-left:150px;
+    }
+  .contactinformation{
+    margin-left:150px;
+   
+  }
+  .contactinformation p img{
+    width:5%;
+  }
+  .copyright{
+  margin-top:600px;
+  }
