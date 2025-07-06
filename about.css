@@ -113,7 +113,6 @@ overflow: hidden;
     justify-content: center;
     transition: opacity 0.5s;
     z-index: 2;
-  
     height:300px;
     width:800px;
     font-size:20px;
